@@ -6,7 +6,7 @@ This software uses your webcam to adjust display brightness.
   Webcamera is used to take a photo & calculate what brigthness should be set.
   
 ## **HOW TO INSTALL**
-- **For Windows,** Install using the setup file.
+- **For Windows,** Install using the setup file. [Setup](https://drive.google.com/file/d/1wZ3bHnedW7hp0O6mv72DgI7d5WGBop9o/view?usp=sharing)
 - **For Linux, App doesn't works properly !** _(Use it on your own risk if you want to, by double clicking the app file.)_
 
 
