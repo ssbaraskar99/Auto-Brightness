@@ -13,7 +13,6 @@ This software uses your webcam to adjust display brightness.
 ## **HOW TO USE**
 - Select frontfacing Webcamera from the dropdown box, by default 1st camera will be used.
 - If webcamera is not available, then dropdown box will be empty.
-- [Watch Demo](https://drive.google.com/file/d/1SoHWMqJHGJ_YZBGAIqf_F3DNk9UmTcI1/view?usp=sharing)
 
 **Minimum Brightness Limit:**
 - If your display turns off/gets very dark/nothing at all is visble at certain value.
