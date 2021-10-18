@@ -7,8 +7,6 @@ This software uses your webcam to adjust display brightness.
   
 ## **HOW TO INSTALL**
 - **For Windows,** Install using the setup file.
-- **For Linux, App doesn't works properly !** _(Use it on your own risk if you want to, by double clicking the app file.)_
-
 
 ## **HOW TO USE**
 - [Watch Demo](https://drive.google.com/file/d/14b0fYqhrhVW6-yamU4jyKleHsXg-kHdj/view?usp=sharing)
