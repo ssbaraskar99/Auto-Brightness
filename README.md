@@ -58,6 +58,6 @@ Accurate Brightness adjusting is not guaranteed.
 
 ## **LICENSE**
 - **Anyone can use this app, for personal use for free.**
-- **Don't modify code.**
+- **Don't modify code, in anyway possible.**
 - **Don't sell this app.**
 - **Poppins font used, it's free to use. It comes under Open Font License.**
